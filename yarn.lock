@@ -2910,9 +2910,9 @@ ember-cli@2.16.2:
     walk-sync "^0.3.0"
     yam "0.0.22"
 
-ember-cookies@^0.1.0:
+"ember-cookies@https://github.com/habdelra/ember-cookies#f33541e7249b4ad2fd8cf1aa21449faa39209fcc":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/ember-cookies/-/ember-cookies-0.1.0.tgz#aed0c3e57fa5568bc8632d334ba9df01b5abc36e"
+  resolved "https://github.com/habdelra/ember-cookies#f33541e7249b4ad2fd8cf1aa21449faa39209fcc"
   dependencies:
     ember-cli-babel "6.8.2"
     ember-getowner-polyfill "^1.1.0 || ^2.0.0"
